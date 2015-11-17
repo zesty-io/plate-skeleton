@@ -7,7 +7,7 @@
 				<wysiwyg_advanced name="content" name_friendly="Intro Text" />
 				<images name="image" name_friendly="Main Image" limit="1" />
 			</fields>
-			
+
 			<items>
 				<item link_title="Homepage" path_part="zesty_home">
 					<title><![CDATA[Skeleton]]></title>
@@ -17,24 +17,24 @@
 			</items>
 		</templateset>
 	</ingredients>
-	
-	<!-- clippings -->	
+
+	<!-- clippings -->
 	<clippings>
 		<text name="site_name" name_friendly="Site Name" required="1">
 			<![CDATA[Skeleton]]>
 		</text>
-		
+
 		<images name="logo" name_friendly="Site Logo" limit="1">
 			https://raw.githubusercontent.com/dhg/Skeleton/gh-pages/images/favicon.png
 		</images>
-		
+
 		<text name="footer_text" name_friendly="Footer Text">
 			<![CDATA[Footer text can be updated in Content Clippings]]>
 		</text>
-		
+
 	</clippings>
 
-	<!-- head files -->	
+	<!-- head files -->
 	<head>
 		<doctype>html5</doctype>
 		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
