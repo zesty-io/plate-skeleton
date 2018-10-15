@@ -29,7 +29,7 @@
 		</images>
 
 		<text name="footer_text" name_friendly="Footer Text">
-			<![CDATA[Footer text can be updated in Content Clippings]]>
+			<![CDATA[Footer text can be updated in Globals]]>
 		</text>
 
 	</clippings>
